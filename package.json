@@ -3,7 +3,7 @@
   "name": "select2-browser",
   "description": "A jQuery based replacement for select boxes.",
   "keywords": ["ui", "form", "jquery"],
-  "version": "3.3.1-1",
+  "version": "3.4.5-1",
   "homepage": "http://ivaynberg.github.com/select2/",
   "licenses": [
     {
